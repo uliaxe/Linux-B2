@@ -2,6 +2,8 @@
 
 ## I. Init
 
-[init.md](init.md)
+[init](init.md)
 
 [images](images.md)
+
+[Docker compose](docker-compose.md)
